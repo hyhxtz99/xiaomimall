@@ -1,0 +1,39 @@
+body,
+div,
+dl,
+dt,
+ul,
+ol,
+dd,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+legend {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: centre;
+  font-family: Helvetica Neue, Helvetica, Arial, Microsoft Yahei;
+  background-color: #f1f1f1f1;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  border: none;
+}
